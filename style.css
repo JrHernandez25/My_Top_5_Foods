@@ -1,0 +1,48 @@
+body{
+    background-color: #F5C98A;
+}
+h1{
+    font-size: 40px;
+text-align: center;
+padding-bottom: 10px;
+}
+#img1{
+    width: 350px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+h2{
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#img2{
+    border-radius: 40px;
+    border: 5px solid white;
+    margin-left: 41%;
+}
+#img3{
+width: 4,445x2,963px;
+margin-left: 41%;
+border: 5px solid white;
+border-radius: 40px;
+}
+#img4{
+    width: 4,445x2,963px;
+    margin-left: 41%;
+    border: 5px solid white;
+    border-radius: 40px;
+}
+#img5{
+    width: 4,445x2,963px;
+    margin-left: 41%;
+    border: 5px solid white;
+    border-radius: 40px;
+}
+#img6{
+    width: 4,445x2,963px;
+    margin-left: 41%;
+    border: 5px solid white;
+    border-radius: 40px;
+}
